@@ -1,0 +1,6 @@
+C:\Users\jayde\source\repos\ISMDotNet2\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\jayde\source\repos\ISMDotNet2\Task 2\bin\Debug\Task 2.exe
+C:\Users\jayde\source\repos\ISMDotNet2\Task 2\bin\Debug\Task 2.pdb
+C:\Users\jayde\source\repos\ISMDotNet2\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\jayde\source\repos\ISMDotNet2\Task 2\obj\Debug\Task 2.exe
+C:\Users\jayde\source\repos\ISMDotNet2\Task 2\obj\Debug\Task 2.pdb
