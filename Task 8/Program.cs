@@ -12,12 +12,13 @@ namespace Task8
         {
             Console.InputEncoding = Encoding.Unicode;
             Console.OutputEncoding = Encoding.Unicode;
-            int n, a;
+            double  a;
+            int n;
             Console.Write("Введіть a = ");
-            a = int.Parse(Console.ReadLine());
+            a = double.Parse(Console.ReadLine());
             Console.Write("Введіть n = ");
             n = int.Parse(Console.ReadLine());
-            int q = a;
+            double q = a;
             for (int i = 1; i < n; i++)
             {
                 a *= q;
