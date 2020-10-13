@@ -20,6 +20,7 @@ namespace Task4
             Console.Write("Ввeдіть c = ");
             c = double.Parse(Console.ReadLine());
             d = b * b - 4 * a * c;
+            Console.WriteLine($"Дискримінант = {d}");
             if (a == 0) Console.WriteLine("Рівняння Лінійне");
             else
             {
